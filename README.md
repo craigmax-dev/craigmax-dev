@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+Use this to create a personalised github profile then make public!
+Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+
 **craigmax-dev/craigmax-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
