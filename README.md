@@ -4,7 +4,7 @@ I am an aerospace/mechanical engineer from Scotland in the final part of my stud
 I am currently searching for graduate work in Engineering or Technology companies and am mobile internationally!
 
 ## About Me
-I enjoy climbing and music.
+I enjoy climbing up walls and listening to music.
 
 ## Current Projects
 Here are the things I am working on right now!
@@ -30,7 +30,7 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/code-python-brightgreen)
+![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
@@ -60,4 +60,6 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 Use this to create a personalised github profile then make public!
 Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 Put gifs and images
+informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
+informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 -->
