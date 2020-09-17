@@ -27,7 +27,7 @@ Not the best but I am trying to work more with Github
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 -->
 
-![](https://img.shields.io/badge/<Python>-<Yeah it's python>-<brightgreen>)
+![](https://img.shields.io/badge/python-python-brightgreen)
 
 ## What I Want to Know
 
