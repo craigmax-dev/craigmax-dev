@@ -3,8 +3,8 @@ TO DO
 - Get logos working correctly
 - Get Stats working
 - Complete descriptions and add images / emojis / gifs
+- fav climbing / music track news
 -->
-
 
 # Hi, I'm Craig Maxwell 👋
 
@@ -68,6 +68,13 @@ informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 
 
 ## What I Want to Know
+
+I am always trying to learn new things. 
+Here are some things I am learning right now!
+
+* Language - Spanish - Living and practicing in Spain
+* Course - Udemy Web Developer Bootcamp by Colt Steele
+* Reading - The Lean Startup by Eric Ries
 
 ## Contact Me
 
