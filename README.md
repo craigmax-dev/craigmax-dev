@@ -26,11 +26,12 @@ Not the best but I am trying to work more with Github
 <!--
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 Icon source - https://simpleicons.org/ - find others too! - add symbols for other things
+?logo=data:image/png;base64,…
 -->
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=data:python.svg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
