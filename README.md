@@ -38,8 +38,8 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 ![](https://img.shields.io/badge/code-r-brightgreen)
 
 <!-- Software -->
-![](https://img.shields.io/badge/software-"ptc creo"-brightgreen)
-![](https://img.shields.io/badge/software-ansys fluent-brightgreen)
+![](https://img.shields.io/badge/software-<ptc creo>-brightgreen)
+![](https://img.shields.io/badge/software-ansys~fluent-brightgreen)
 ![](https://img.shields.io/badge/software-matlab-brightgreen)
 ![](https://img.shields.io/badge/software-simulink-brightgreen)
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
