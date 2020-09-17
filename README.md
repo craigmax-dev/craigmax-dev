@@ -1,3 +1,11 @@
+<!--
+TO DO
+- Get logos working correctly
+- Get Stats working
+- Complete descriptions and add images / emojis / gifs
+-->
+
+
 # Hi, I'm Craig Maxwell 👋
 
 I am an aerospace/mechanical engineer from Scotland in the final part of my studies at the Delft University of Technology and living in Madrid.
@@ -21,11 +29,17 @@ Not the best but I am trying to work more with Github
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
+<!--
+Readme stats: https://github.com/anuraghazra/github-readme-stats
+-->
+
 ## What I Know
 
 <!--
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 Icon source - https://simpleicons.org/ - find others too! - add symbols for other things
+informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
+informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 ?logo=data:image/png;base64,…
 -->
 
@@ -60,7 +74,5 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 <!--
 Use this to create a personalised github profile then make public!
 Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
-Put gifs and images
-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
-informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
+Awesome profiles: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
