@@ -14,6 +14,11 @@ I am currently searching for graduate work in Engineering or Technology companie
 ## About Me
 I enjoy climbing up walls and listening to music.
 
+<!--
+Latest songs and climbs?
+-->
+
+
 ## Current Projects
 Here are the things I am working on right now!
 
