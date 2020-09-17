@@ -48,7 +48,7 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 <!-- Industries -->
 ![](https://img.shields.io/badge/industry-civil%20aviation-brightgreen)
 ![](https://img.shields.io/badge/industry-rolling%20stock-brightgreen)
-![](https://img.shields.io/badge/industry-filling%20and%20packaging systems-brightgreen)
+![](https://img.shields.io/badge/industry-filling%20and%20packaging%20systems-brightgreen)
 ![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
 
 
