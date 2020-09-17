@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hi, I'm Craig Maxwell 👋
 
-My name is Craig and I am an aerospace/mechanical engineer in the final part of my studies at the Delft University of Technology and living in Madrid.
+I am an aerospace/mechanical engineer from Scotland in the final part of my studies at the Delft University of Technology and living in Madrid.
 I am currently searching for graduate work in Engineering or Technology companies and am mobile internationally!
 
 ## About Me
@@ -38,17 +38,17 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 ![](https://img.shields.io/badge/code-r-brightgreen)
 
 <!-- Software -->
-![](https://img.shields.io/badge/software-<ptc creo>-brightgreen)
-![](https://img.shields.io/badge/software-ansys~fluent-brightgreen)
+![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
+![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen)
 ![](https://img.shields.io/badge/software-matlab-brightgreen)
 ![](https://img.shields.io/badge/software-simulink-brightgreen)
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
-![](https://img.shields.io/badge/software-ibm doors-brightgreen)
+![](https://img.shields.io/badge/software-ibm%20doors-brightgreen)
 
 <!-- Industries -->
-![](https://img.shields.io/badge/industry-civil aviation-brightgreen)
-![](https://img.shields.io/badge/industry-rolling stock-brightgreen)
-![](https://img.shields.io/badge/industry-filling and packaging systems-brightgreen)
+![](https://img.shields.io/badge/industry-civil%20aviation-brightgreen)
+![](https://img.shields.io/badge/industry-rolling%20stock-brightgreen)
+![](https://img.shields.io/badge/industry-filling%20and%20packaging systems-brightgreen)
 ![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
 
 
