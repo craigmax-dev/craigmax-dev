@@ -25,9 +25,32 @@ Not the best but I am trying to work more with Github
 
 <!--
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Icon source - https://simpleicons.org/ - find others too! - add symbols for other things
 -->
 
-![](https://img.shields.io/badge/python-python-brightgreen)
+<!-- Code -->
+![](https://img.shields.io/badge/code-matlab-brightgreen)
+![](https://img.shields.io/badge/code-python-brightgreen)
+![](https://img.shields.io/badge/code-c-brightgreen)
+![](https://img.shields.io/badge/code-html-brightgreen)
+![](https://img.shields.io/badge/code-css-brightgreen)
+![](https://img.shields.io/badge/code-javascript-brightgreen)
+![](https://img.shields.io/badge/code-r-brightgreen)
+
+<!-- Software -->
+![](https://img.shields.io/badge/software-ptc creo-brightgreen)
+![](https://img.shields.io/badge/software-ansys fluent-brightgreen)
+![](https://img.shields.io/badge/software-matlab-brightgreen)
+![](https://img.shields.io/badge/software-simulink-brightgreen)
+![](https://img.shields.io/badge/software-vampire-brightgreen)
+![](https://img.shields.io/badge/software-ibm doors-brightgreen)
+
+<!-- Industries -->
+![](https://img.shields.io/badge/industry-civil aviation-brightgreen)
+![](https://img.shields.io/badge/industry-rolling stock-brightgreen)
+![](https://img.shields.io/badge/industry-filling and packaging systems-brightgreen)
+![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
+
 
 ## What I Want to Know
 
