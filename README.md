@@ -46,6 +46,7 @@ Icon source - https://simpleicons.org/ - find others too! - add symbols for othe
 informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
 informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 ?logo=data:image/png;base64,…
+Colour code knowledge level!
 -->
 
 <!-- Code -->
@@ -56,6 +57,7 @@ informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 ![](https://img.shields.io/badge/code-css-brightgreen)
 ![](https://img.shields.io/badge/code-javascript-brightgreen)
 ![](https://img.shields.io/badge/code-r-brightgreen)
+![](https://img.shields.io/badge/code-vba-brightgreen)
 
 <!-- Software -->
 ![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
@@ -64,6 +66,8 @@ informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 ![](https://img.shields.io/badge/software-simulink-brightgreen)
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen)
+![](https://img.shields.io/badge/software-latex-brightgreen)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen)
 
 <!-- Industries -->
 ![](https://img.shields.io/badge/industry-civil%20aviation-brightgreen)
