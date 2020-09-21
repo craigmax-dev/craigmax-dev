@@ -89,6 +89,8 @@ Here are some things I am learning right now!
 
 Find me on [![LinkedIn][2.2]][2].
 
+![linkedin](/icons/linkedin.png)
+
 <!-- Icons -->
 
 <!-- 
