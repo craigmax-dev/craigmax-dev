@@ -7,10 +7,20 @@ I am currently searching for graduate work in Engineering or Technology companie
 I enjoy climbing, music, and programming.
 
 <p float="center">
-  <img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px">
-  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px">
-  <img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/source.gif" width="200px">
 </p>
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px"></td>
+    <td><img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px"></td>
+    <td><img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/source.gif" width="200px"></td>
+  </tr>
+ </table>
 
 <!-- Try to host in repo!
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
