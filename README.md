@@ -35,7 +35,7 @@ Things I can program with:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=data:images/python.png&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
@@ -77,8 +77,6 @@ Here's what I am studying right now!
 Find me on [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
 
 <!--
-Other file linking format: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/linkedin.png
-Use this to create a personalised github profile then make public!
 Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 Awesome profiles: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
