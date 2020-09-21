@@ -6,9 +6,11 @@ I am currently searching for graduate work in Engineering or Technology companie
 ## About Me
 I enjoy climbing, music, and programming.
 
-<img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px">
-<img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/source.gif" width="200px">
+<p float="center">
+  <img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px">
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/source.gif" width="200px">
+</p>
 
 <!-- Try to host in repo!
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
