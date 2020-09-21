@@ -26,6 +26,8 @@ Here are the things I am working on right now!
 * [The Web Developer Bootcamp](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects) - Small projects to learn web development.
 * Web Development Project - I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Stats
 
 <a href="https://github.com/craigmax-dev/">
