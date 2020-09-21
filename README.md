@@ -37,7 +37,7 @@ Here are the things I am working on right now!
 
 ## What I Know
 
-Things I can program with:
+Languages and technologies I can use:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
