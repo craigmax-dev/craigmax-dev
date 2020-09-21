@@ -19,6 +19,13 @@ Here are the things I am working on right now!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact)](https://github.com/craigmax-dev/github-readme-stats)
 
+<a href="https://github.com/craigmax-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/craigmax-dev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=convoychat&layout=compact" />
+</a>
+
 ## What I Know
 
 <!--
