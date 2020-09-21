@@ -87,16 +87,11 @@ Here are some things I am learning right now!
 
 ## Contact Me
 
-Find me on [![LinkedIn][i_li]][l_li].
-
-![linkedin](/icons/linkedin.png)
+Find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-<!-- 
-[i_li]: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/icons/linkedin.png
--->
-[i_li]: /icons/linkedin.svg
+[i_li]: https://github.com/craigmax-dev/craigmax-dev/tree/master/icons/linkedin.png
 
 <!-- Links to your social media accounts -->
 
