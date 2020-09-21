@@ -38,10 +38,10 @@ Additionally, I am working on a fintech-based web-development project to build m
 ## My Stats
 
 <a href="https://github.com/craigmax-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical&card_height=180ox" />
 </a>
 <a href="https://github.com/craigmax-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical&card_height=180ox" />
 </a>
 
 ## What I Know
