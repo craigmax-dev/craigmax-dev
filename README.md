@@ -33,7 +33,7 @@ Here are the things I am working on right now!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=The-Web-Developer-Bootcamp-Projects" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=Abriro)](https://github.com/craigmax-dev/Abriro)
+Additionally, I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
 ## My Stats
 
