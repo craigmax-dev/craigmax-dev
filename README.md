@@ -87,6 +87,18 @@ Here are some things I am learning right now!
 
 ## Contact Me
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+
 <!--
 Use this to create a personalised github profile then make public!
 Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
