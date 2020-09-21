@@ -41,7 +41,7 @@ Additionally, I am working on a fintech-based web-development project to build m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/craigmax-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
 </a>
 
 ## What I Know
