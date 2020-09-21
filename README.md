@@ -29,13 +29,11 @@ Here are the things I am working on right now!
 * etc
 -->
 
-## Some Stats
-Not the best but I am trying to work more with Github
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 <!--
 Readme stats: https://github.com/anuraghazra/github-readme-stats
+## Some Stats
+Not the best but I am trying to work more with Github
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 -->
 
 ## What I Know
@@ -79,23 +77,15 @@ Colour code knowledge level!
 ## What I Want to Know
 
 I am always trying to learn new things. 
-Here are some things I am learning right now!
+Here's what I am studying right now!
 
-* Language - Spanish - Living and practicing in Spain
-* Course - Udemy Web Developer Bootcamp by Colt Steele
-* Reading - The Lean Startup by Eric Ries
+* ![ ][icons/translator.png]Language - Spanish - Living and practicing in Spain
+* ![ ][icons/notebook.png]Course - Udemy Web Developer Bootcamp by Colt Steele
+* ![ ][icons/book.png]Reading - The Lean Startup by Eric Ries
 
 ## Contact Me
 
-Find me on [![LinkedIn][i_li]][l_li].
-
-<!-- Icons -->
-
-[i_li]: icons/linkedin.png
-
-<!-- Links to your social media accounts -->
-
-[l_li]: https://www.linkedin.com/in/craigmax/
+Find me on [![LinkedIn][icons/linkedin.png]][https://www.linkedin.com/in/craigmax/].
 
 <!--
 Other file linking format: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/linkedin.png
