@@ -1,10 +1,13 @@
 # Hi, I'm Craig Maxwell 👋
 
-I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
+I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
 I am currently searching for graduate work in Engineering or Technology companies and am mobile Europe-wide!
 
 ## About Me
 I enjoy climbing and listening to music.
+
+<img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
+<img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/music.gif" width="30px">
 
 ## Current Projects
 Here are the things I am working on right now!
@@ -74,6 +77,5 @@ Here's what I am studying right now!
 Find me on [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
 
 <!--
-Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 Awesome profiles: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
