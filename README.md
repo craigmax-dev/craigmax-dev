@@ -26,9 +26,13 @@ Here are the things I am working on right now!
 * Web Development Project - I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=The-Web-Developer-Bootcamp-Projects)](https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB)
+<a href="https://github.com/craigmax-dev/">
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=The-Web-Developer-Bootcamp-Projects)](https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB)
+</a>
+<a href="https://github.com/craigmax-dev/">
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB)](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects)
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB)](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=Abriro)](https://github.com/craigmax-dev/Abriro)
 
