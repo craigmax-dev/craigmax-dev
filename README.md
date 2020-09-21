@@ -6,15 +6,7 @@ I am currently searching for graduate work in Engineering or Technology companie
 ## About Me
 I enjoy climbing, music, and programming.
 
-<p float="center">
-</p>
-
 <table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px"></td>
     <td><img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px"></td>
