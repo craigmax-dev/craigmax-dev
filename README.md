@@ -91,7 +91,7 @@ Find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[i_li]: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/icons/linkedin.svg
+[i_li]: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/icons/linkedin.png
 
 <!-- Links to your social media accounts -->
 
