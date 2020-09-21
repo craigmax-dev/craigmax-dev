@@ -45,7 +45,7 @@ Software I can use:
 ![](https://img.shields.io/badge/software-simulink-brightgreen?logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen?logo=ibm&logoColor=white)
 ![](https://img.shields.io/badge/software-latex-brightgreen?logo=latex&logoColor=white)
-![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoftoffice&logoColor=white)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoft-office&logoColor=white)
 
 <!-- Unused
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
