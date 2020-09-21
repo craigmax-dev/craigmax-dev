@@ -27,26 +27,30 @@ Here are the things I am working on right now!
 Things I can program with:
 
 <!-- Code -->
-![](https://img.shields.io/badge/code-matlab-brightgreen)
 ![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
-![](https://img.shields.io/badge/code-c-brightgreen?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/code-html-brightgreen)
-![](https://img.shields.io/badge/code-css-brightgreen)
-![](https://img.shields.io/badge/code-javascript-brightgreen)
-![](https://img.shields.io/badge/code-r-brightgreen)
-![](https://img.shields.io/badge/code-vba-brightgreen)
+![](https://img.shields.io/badge/code-c-brightgreen?logo=c&logoColor=white)
+![](https://img.shields.io/badge/code-html-brightgreen?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/code-css-brightgreen?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/code-javascript-brightgreen?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/code-r-brightgreen?logo=r&logoColor=white)
+![](https://img.shields.io/badge/code-vba-brightgreen?logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/database-mysql-brightgreen?logo=mysql&logoColor=white)
 
 Software I can use:
 
 <!-- Software -->
 ![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
 ![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen)
-![](https://img.shields.io/badge/software-matlab-brightgreen)
-![](https://img.shields.io/badge/software-simulink-brightgreen)
+![](https://img.shields.io/badge/software-matlab-brightgreen?logo=mathworks&logoColor=white)
+![](https://img.shields.io/badge/software-simulink-brightgreen?logo=mathworks&logoColor=white)
+![](https://img.shields.io/badge/software-ibm%20doors-brightgreen?logo=ibm&logoColor=white)
+![](https://img.shields.io/badge/software-latex-brightgreen?logo=latex&logoColor=white)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoft_office&logoColor=white)
+
+<!-- Unused
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
-![](https://img.shields.io/badge/software-ibm%20doors-brightgreen)
-![](https://img.shields.io/badge/software-latex-brightgreen)
-![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoftoffice&logoColor=white)
+![](https://img.shields.io/badge/software-qgis-brightgreen?logo=qgis&logoColor=white)
+-->
 
 Industries I have experience or knowledge in:
 
