@@ -4,10 +4,11 @@ I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in t
 I am currently searching for graduate work in Engineering or Technology companies and am mobile Europe-wide!
 
 ## About Me
-I enjoy climbing and listening to music.
+I enjoy climbing, music, and programming.
 
-<img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="30px">
-<img src="https://media.giphy.com/media/l4Ep71LWjYR1eCPXq/source.mp4" width="30px">
+<img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px">
+<img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px">
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/source.gif" width="200px">
 
 <!-- Try to host in repo!
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
