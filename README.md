@@ -8,9 +8,9 @@ I enjoy climbing, music, and programming.
 
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="200px"></td>
-    <td><img src="https://media.giphy.com/media/tqfS3mgQU28ko/source.gif" width="200px"></td>
-    <td><img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/source.gif" width="200px"></td>
+    <td><img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" height="120px"></td>
+    <td><img src="https://media.giphy.com/media/r0L1MEmFiDyWA/source.gif" width="120px"></td>
+    <td><img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/source.gif" width="120px"></td>
   </tr>
  </table>
 
