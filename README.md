@@ -79,9 +79,9 @@ Colour code knowledge level!
 I am always trying to learn new things. 
 Here's what I am studying right now!
 
-* ![ ][icons/translator.png]Language - Spanish - Living and practicing in Spain
-* ![ ][icons/notebook.png]Course - Udemy Web Developer Bootcamp by Colt Steele
-* ![ ][icons/book.png]Reading - The Lean Startup by Eric Ries
+* ![](icons/translator.png)Language - Spanish - Living and practicing in Spain
+* ![](icons/notebook.png)Course - Udemy Web Developer Bootcamp by Colt Steele
+* ![](icons/book.png)Reading - The Lean Startup by Eric Ries
 
 ## Contact Me
 
