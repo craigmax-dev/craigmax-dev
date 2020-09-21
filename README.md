@@ -91,11 +91,11 @@ Find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[i_li]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/craigmax/
+[l_li]: https://www.linkedin.com/in/craigmax/
 
 <!--
 Use this to create a personalised github profile then make public!
