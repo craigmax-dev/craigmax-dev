@@ -29,7 +29,7 @@ Things I can program with:
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
 ![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
-![](https://img.shields.io/badge/code-c-brightgreen)
+![](https://img.shields.io/badge/code-c-brightgreen?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
 ![](https://img.shields.io/badge/code-javascript-brightgreen)
@@ -46,7 +46,7 @@ Software I can use:
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen)
 ![](https://img.shields.io/badge/software-latex-brightgreen)
-![](https://img.shields.io/badge/software-microsoft%20office-brightgreen)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoftoffice&logoColor=white)
 
 Industries I have experience or knowledge in:
 
