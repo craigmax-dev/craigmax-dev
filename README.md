@@ -10,8 +10,8 @@ I enjoy climbing and listening to music.
 Here are the things I am working on right now!
 
 * [Integrated Model Predictive Fuzzy Control for Disaster Victim Detection Path Planning in MATLAB](https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB) - This is my thesis project, check it out!
-* [The Web Developer Bootcamp](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects)
-* Web Development Project - I am working on a fintech-based web-development project
+* [The Web Developer Bootcamp](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects) - Small projects to learn web development.
+* Web Development Project - I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
 <!--
 Readme stats: https://github.com/anuraghazra/github-readme-stats
@@ -23,13 +23,13 @@ Not the best but I am trying to work more with Github
 ## What I Know
 
 <!--
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-Icon source - https://simpleicons.org/ - find others too! - add symbols for other things
 informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
 informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
 ?logo=data:image/png;base64,…
 Colour code knowledge level!
 -->
+
+Things I can program with:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
@@ -41,6 +41,8 @@ Colour code knowledge level!
 ![](https://img.shields.io/badge/code-r-brightgreen)
 ![](https://img.shields.io/badge/code-vba-brightgreen)
 
+Software I can use:
+
 <!-- Software -->
 ![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
 ![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen)
@@ -50,6 +52,8 @@ Colour code knowledge level!
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen)
 ![](https://img.shields.io/badge/software-latex-brightgreen)
 ![](https://img.shields.io/badge/software-microsoft%20office-brightgreen)
+
+Industries I have experience or knowledge in:
 
 <!-- Industries -->
 ![](https://img.shields.io/badge/industry-civil%20aviation-brightgreen)
