@@ -91,13 +91,14 @@ Find me on [![LinkedIn][i_li]][l_li].
 
 <!-- Icons -->
 
-[i_li]: https://github.com/craigmax-dev/craigmax-dev/tree/master/icons/linkedin.png
+[i_li]: icons/linkedin.png
 
 <!-- Links to your social media accounts -->
 
 [l_li]: https://www.linkedin.com/in/craigmax/
 
 <!--
+Other file linking format: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/linkedin.png
 Use this to create a personalised github profile then make public!
 Guide: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 Awesome profiles: https://github.com/abhisheknaiidu/awesome-github-profile-readme
