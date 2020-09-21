@@ -15,10 +15,12 @@ Here are the things I am working on right now!
 
 <!--
 Readme stats: https://github.com/anuraghazra/github-readme-stats
-## Some Stats
-Not the best but I am trying to work more with Github
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 -->
+
+## My Stats
+
+[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigmax-dev)](https://github.com/craigmax-dev/github-readme-stats)
+
 
 ## What I Know
 
