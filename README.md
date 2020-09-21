@@ -35,7 +35,7 @@ Things I can program with:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/code-python-brightgreen?style=flat)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
