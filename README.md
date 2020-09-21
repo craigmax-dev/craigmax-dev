@@ -8,7 +8,7 @@ TO DO
 
 # Hi, I'm Craig Maxwell 👋
 
-I am an aerospace/mechanical engineer from Scotland in the final part of my studies at the Delft University of Technology and living in Madrid.
+I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
 I am currently searching for graduate work in Engineering or Technology companies and am mobile internationally!
 
 ## About Me
@@ -79,13 +79,13 @@ Colour code knowledge level!
 I am always trying to learn new things. 
 Here's what I am studying right now!
 
-* ![](icons/translator.png)Language - Spanish - Living and practicing in Spain
-* ![](icons/notebook.png)Course - Udemy Web Developer Bootcamp by Colt Steele
-* ![](icons/book.png)Reading - The Lean Startup by Eric Ries
+* ![](icons/translator.png) Language - Spanish - Living and practicing in Spain
+* ![](icons/notebook.png) Course - Udemy Web Developer Bootcamp by Colt Steele
+* ![](icons/book.png) Reading - The Lean Startup by Eric Ries
 
 ## Contact Me
 
-Find me on [![LinkedIn][icons/linkedin.png]][https://www.linkedin.com/in/craigmax/].
+Find me on [![LinkedIn](icons/linkedin.png)][https://www.linkedin.com/in/craigmax/].
 
 <!--
 Other file linking format: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/linkedin.png
