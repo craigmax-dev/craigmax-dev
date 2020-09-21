@@ -40,12 +40,12 @@ Software I can use:
 
 <!-- Software -->
 ![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
-![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen)
+![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen?logo=ansys&logoColor=white)
 ![](https://img.shields.io/badge/software-matlab-brightgreen?logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/software-simulink-brightgreen?logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen?logo=ibm&logoColor=white)
 ![](https://img.shields.io/badge/software-latex-brightgreen?logo=latex&logoColor=white)
-![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoft_office&logoColor=white)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoftoffice&logoColor=white)
 
 <!-- Unused
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
