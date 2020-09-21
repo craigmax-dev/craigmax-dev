@@ -13,14 +13,11 @@ Here are the things I am working on right now!
 * [The Web Developer Bootcamp](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects) - Small projects to learn web development.
 * Web Development Project - I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
-<!--
-Readme stats: https://github.com/anuraghazra/github-readme-stats
--->
-
 ## My Stats
 
-[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigmax-dev)](https://github.com/craigmax-dev/github-readme-stats)
+[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical)](https://github.com/craigmax-dev/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev)](https://github.com/craigmax-dev/github-readme-stats)
 
 ## What I Know
 
