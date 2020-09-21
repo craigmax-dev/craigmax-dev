@@ -17,7 +17,7 @@ Here are the things I am working on right now!
 
 [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical)](https://github.com/craigmax-dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev)](https://github.com/craigmax-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact)](https://github.com/craigmax-dev/github-readme-stats)
 
 ## What I Know
 
