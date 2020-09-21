@@ -1,33 +1,17 @@
-<!--
-TO DO
-- Get logos working correctly
-- Get Stats working
-- Complete descriptions and add images / emojis / gifs
-- fav climbing / music track news
--->
-
 # Hi, I'm Craig Maxwell 👋
 
 I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
-I am currently searching for graduate work in Engineering or Technology companies and am mobile internationally!
+I am currently searching for graduate work in Engineering or Technology companies and am mobile Europe-wide!
 
 ## About Me
-I enjoy climbing up walls and listening to music.
-
-<!--
-Latest songs and climbs?
--->
-
+I enjoy climbing and listening to music.
 
 ## Current Projects
 Here are the things I am working on right now!
 
-<!--
-* My MEng thesis 
-* Web Developer Bootcamp
-* Abriro
-* etc
--->
+* [Integrated Model Predictive Fuzzy Control for Disaster Victim Detection Path Planning in MATLAB](https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB) - This is my thesis project, check it out!
+* [The Web Developer Bootcamp](https://github.com/craigmax-dev/The-Web-Developer-Bootcamp-Projects)
+* Web Development Project - I am working on a fintech-based web-development project
 
 <!--
 Readme stats: https://github.com/anuraghazra/github-readme-stats
