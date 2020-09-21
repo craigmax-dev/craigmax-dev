@@ -6,8 +6,13 @@ I am currently searching for graduate work in Engineering or Technology companie
 ## About Me
 I enjoy climbing and listening to music.
 
+<img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" width="30px">
+<img src="https://media.giphy.com/media/l4Ep71LWjYR1eCPXq/source.mp4" width="30px">
+
+<!-- Try to host in repo!
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/music.gif" width="30px">
+-->
 
 ## Current Projects
 Here are the things I am working on right now!
