@@ -87,7 +87,7 @@ Here are some things I am learning right now!
 
 ## Contact Me
 
-Find me on [![LinkedIn][2.2]][2].
+Find me on [![LinkedIn][i_li]][l_li].
 
 <!-- Icons -->
 
