@@ -72,7 +72,7 @@ Here's what I am studying right now!
 
 ## Contact Me
 
-Find me on [![LinkedIn][icons/linkedin.png]][https://www.linkedin.com/in/craigmax/].
+Find me on [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
 
 <!--
 Other file linking format: https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/master/linkedin.png
