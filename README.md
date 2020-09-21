@@ -24,18 +24,11 @@ Here are the things I am working on right now!
 
 ## What I Know
 
-<!--
-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
-informational?style=flat&logo=logos/python.svg&logoColor=white&color=2bbc8a
-?logo=data:image/png;base64,…
-Colour code knowledge level!
--->
-
 Things I can program with:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/-python-brightgreen?logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
