@@ -33,7 +33,7 @@ Things I can program with:
 
 <!-- Code -->
 ![](https://img.shields.io/badge/code-matlab-brightgreen)
-![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=data:python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-python-brightgreen-informational?style=flat&logo=data:images/python.png&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c-brightgreen)
 ![](https://img.shields.io/badge/code-html-brightgreen)
 ![](https://img.shields.io/badge/code-css-brightgreen)
@@ -60,7 +60,6 @@ Industries I have experience or knowledge in:
 ![](https://img.shields.io/badge/industry-rolling%20stock-brightgreen)
 ![](https://img.shields.io/badge/industry-filling%20and%20packaging%20systems-brightgreen)
 ![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
-
 
 ## What I Want to Know
 
