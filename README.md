@@ -1,7 +1,7 @@
 # Hi, I'm Craig Maxwell 👋
 
 I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
-I am currently searching for graduate work in Engineering or Technology companies and am mobile Europe-wide!
+I am currently searching for work in Engineering or Technology companies!
 
 ## About me
 I enjoy climbing, music, and programming.
@@ -14,17 +14,8 @@ I enjoy climbing, music, and programming.
   </tr>
  </table>
 
-<!-- Try to host in repo!
-<img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/climbing.gif" width="30px">
-<img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/music.gif" width="30px">
--->
-
 ## Current projects
 Here are the things I am working on right now!
-
-<!-- Try to host in repo!
-* Web Development Project - I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
--->
 
 <a href="https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=craigmax-dev&repo=Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB" />
