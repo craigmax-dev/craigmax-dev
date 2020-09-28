@@ -3,7 +3,7 @@
 I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
 I am currently searching for graduate work in Engineering or Technology companies and am mobile Europe-wide!
 
-## About Me
+## About me
 I enjoy climbing, music, and programming.
 
 <table>
@@ -19,7 +19,7 @@ I enjoy climbing, music, and programming.
 <img src="https://raw.githubusercontent.com/craigmax-dev/craigmax-dev/gifs/music.gif" width="30px">
 -->
 
-## Current Projects
+## Current projects
 Here are the things I am working on right now!
 
 <!-- Try to host in repo!
@@ -35,7 +35,7 @@ Here are the things I am working on right now!
 
 Additionally, I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
-## My Stats
+## My stats
 
 <a href="https://github.com/craigmax-dev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical" />
@@ -44,7 +44,7 @@ Additionally, I am working on a fintech-based web-development project to build m
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
 </a>
 
-## What I Know
+## What I know
 
 Languages and technologies I can use:
 
@@ -82,7 +82,7 @@ Industries I have experience or knowledge in:
 ![](https://img.shields.io/badge/industry-filling%20and%20packaging%20systems-brightgreen)
 ![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
 
-## What I Want to Know
+## What I am learning
 
 I am always trying to learn new things. 
 Here's what I am studying right now!
@@ -91,7 +91,7 @@ Here's what I am studying right now!
 * ![](icons/notebook.png) Course - Udemy Web Developer Bootcamp by Colt Steele
 * ![](icons/book.png) Reading - The Lean Startup by Eric Ries
 
-## Contact Me
+## Contact me
 
 Find me on [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
 
