@@ -65,13 +65,12 @@ Software I can use:
 ![](https://img.shields.io/badge/software-qgis-brightgreen?logo=qgis&logoColor=white)
 -->
 
-Industries I have experience or knowledge in:
+Industries I have experience in:
 
 <!-- Industries -->
-![](https://img.shields.io/badge/industry-civil%20aviation-brightgreen)
-![](https://img.shields.io/badge/industry-rolling%20stock-brightgreen)
-![](https://img.shields.io/badge/industry-filling%20and%20packaging%20systems-brightgreen)
-![](https://img.shields.io/badge/industry-semiconductors-brightgreen)
+* Civil Aerospace - working in systems engineering in an engine manufacturer.
+* Rolling Stock - working in a rolling stock consultancy.
+* Filling and packaging systems - working in technical sales / line engineering in a filling and packaging system manufacturer.
 
 ## What I am learning
 
