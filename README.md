@@ -26,15 +26,6 @@ Here are the things I am working on right now!
 
 Additionally, I am working on a fintech-based web-development project to build my skills. Maybe one day it will go somewhere.
 
-## My stats
-
-<a href="https://github.com/craigmax-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/craigmax-dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
-</a>
-
 ## What I know
 
 Languages and technologies I can use:
@@ -80,6 +71,16 @@ Here's what I am studying right now!
 * ![](icons/translator.png) Language - Spanish - Living and practicing in Spain
 * ![](icons/notebook.png) Course - Udemy Web Developer Bootcamp by Colt Steele
 * ![](icons/book.png) Reading - The Lean Startup by Eric Ries
+
+## My stats
+
+<a href="https://github.com/craigmax-dev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigmax-dev&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/craigmax-dev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
+</a>
+
 
 ## Contact me
 
