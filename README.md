@@ -81,11 +81,6 @@ Here's what I am studying right now!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
 </a>
 
-
 ## Contact me
 
-Find me on [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
-
-<!--
-Awesome profiles: https://github.com/abhisheknaiidu/awesome-github-profile-readme
--->
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
