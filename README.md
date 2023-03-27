@@ -1,4 +1,4 @@
-# Hi, I'm Craig Maxwell 👋
+<!-- # Hi, I'm Craig Maxwell 👋
 
 I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png).
 I am currently searching for work in Engineering or Technology companies!
@@ -84,3 +84,4 @@ Here's what I am studying right now!
 ## Contact me
 
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
+ -->
