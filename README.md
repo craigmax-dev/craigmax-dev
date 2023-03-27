@@ -56,8 +56,8 @@ Languages and technologies I can use:
 ![](https://img.shields.io/badge/software-qgis-brightgreen?logo=qgis&logoColor=white)
 -->
 
-Industries I have experience in:
-
+<!-- Industries I have experience in:
+ -->
 <!-- Industries -->
 <!-- * Civil Aerospace - working in systems engineering in an engine manufacturer.
 * Rolling Stock - working in a rolling stock consultancy.
