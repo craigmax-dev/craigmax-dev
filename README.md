@@ -31,25 +31,25 @@ Additionally, I am working on a fintech-based web-development project to build m
 Languages and technologies I can use:
 
 <!-- Code -->
-![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
+<!-- ![](https://img.shields.io/badge/code-python-brightgreen?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/code-c-brightgreen?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/code-html-brightgreen?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/code-css-brightgreen?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/code-javascript-brightgreen?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/code-r-brightgreen?logo=r&logoColor=white)
 ![](https://img.shields.io/badge/code-vba-brightgreen?logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/database-mysql-brightgreen?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/database-mysql-brightgreen?logo=mysql&logoColor=white) -->
 
-Software I can use:
+<!-- Software I can use:
 
 <!-- Software -->
-![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
+<!-- ![](https://img.shields.io/badge/software-ptc%20creo-brightgreen)
 ![](https://img.shields.io/badge/software-ansys%20fluent-brightgreen?logo=ansys&logoColor=white)
 ![](https://img.shields.io/badge/software-matlab-brightgreen?logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/software-simulink-brightgreen?logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/software-ibm%20doors-brightgreen?logo=ibm&logoColor=white)
 ![](https://img.shields.io/badge/software-latex-brightgreen?logo=latex&logoColor=white)
-![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoft-office&logoColor=white)
+![](https://img.shields.io/badge/software-microsoft%20office-brightgreen?logo=microsoft-office&logoColor=white) -->
 
 <!-- Unused
 ![](https://img.shields.io/badge/software-vampire-brightgreen)
@@ -59,11 +59,11 @@ Software I can use:
 Industries I have experience in:
 
 <!-- Industries -->
-* Civil Aerospace - working in systems engineering in an engine manufacturer.
+<!-- * Civil Aerospace - working in systems engineering in an engine manufacturer.
 * Rolling Stock - working in a rolling stock consultancy.
-* Filling and packaging systems - working in technical sales / line engineering in a filling and packaging system manufacturer.
+* Filling and packaging systems - working in technical sales / line engineering in a filling and packaging system manufacturer. -->
 
-## What I am learning
+<!-- ## What I am learning
 
 I am always trying to learn new things. 
 Here's what I am studying right now!
@@ -83,5 +83,4 @@ Here's what I am studying right now!
 
 ## Contact me
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
- -->
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/). -->
