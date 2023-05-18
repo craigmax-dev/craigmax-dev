@@ -2,7 +2,7 @@
 
 I am an engineer and data analyst. Trying to work towards a more sustainable world.
 
-Interests include technology, medicine, engineering, and climate science. 
+Interested in anything tech, medicine, and climate related. 
 
 Indie hackers who want to work on something climate related? Reach out to me!
 
