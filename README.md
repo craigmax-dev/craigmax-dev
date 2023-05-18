@@ -64,7 +64,7 @@ Languages and technologies I can use: -->
 <!-- Industries -->
 <!-- * Civil Aerospace - working in systems engineering in an engine manufacturer.
 * Rolling Stock - working in a rolling stock consultancy.
-* Filling and packaging systems - working in technical sales / line engineering in a filling and packaging system manufacturer. --> -->
+* Filling and packaging systems - working in technical sales / line engineering in a filling and packaging system manufacturer. -->
 
 <!-- ## What I am learning
 
