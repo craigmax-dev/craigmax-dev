@@ -2,22 +2,11 @@
 
 I am an engineer and data analyst. Trying to work towards a more sustainable world.
 
-Interested in anything tech, medicine, and climate related. 
+Interested in anything tech, medicine, and climate related.
+
+
 
 Indie hackers who want to work on something climate related? Reach out to me!
-
-<!--   I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png). -->
-
-<!-- ## About me
-I enjoy climbing, music, and programming.
-
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/5b3DXfJmoOddGdHu9H/source.gif" height="200px"></td>
-    <td><img src="https://media.giphy.com/media/Jy10vldGH9OSY/source.gif" height="200px"></td>
-    <td><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200px"></td>
-  </tr>
- </table> -->
 
 <!-- ## Current projects
 Here are the things I am working on right now!
