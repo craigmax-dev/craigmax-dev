@@ -4,6 +4,7 @@ I am an engineer and data analyst. Trying to work towards a more sustainable wor
 
 Interests include technology, medicine, engineering, and climate science. 
 
+Indie hackers who want to work on something climate related? Reach out to me!
 
 <!--   I am an aerospace/mechanical engineer from Scotland ![](icons/scotland.png) in the final part of my postgrad studies at the Delft University of Technology ![](icons/netherlands.png) and living in Madrid ![](icons/spain.png). -->
 
@@ -83,7 +84,7 @@ Here's what I am studying right now!
 <a href="https://github.com/craigmax-dev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigmax-dev&layout=compact&theme=radical" />
 </a>
-
+<!-- 
 ## Contact me
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/).
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/craigmax/). -->
