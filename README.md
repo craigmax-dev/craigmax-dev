@@ -1,8 +1,6 @@
 # Hi, I'm Craig Maxwell 👋
 
-I am an engineer and data analyst. Trying to work towards a more sustainable world.
-
-Interested in anything tech, medicine, and climate related.
+I work as an aerospace engineer with a background in control and simulation, interested in tech, medicine, and climate.
 
 <!-- ## Current projects
 Here are the things I am working on right now!
